@@ -2,8 +2,8 @@
 #
 #   Script to scrape Google Search results
 #
-#   created by https://twitter.com/shanejones 
-#   go and give him a follow being so he gave you this script for free
+#   Created by https://twitter.com/shanejones 
+#   Go and give him a follow being so he gave you this script for free
 #
 ######
 import re
